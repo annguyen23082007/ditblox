@@ -1,3 +1,8 @@
+getgenv().AutoRandomCandy = {
+    ExpX2 = true,
+    Trade500Fragment = false,
+    Trade200Fragment = false
+}
 
 getgenv().AutoRandomSurprise = true
 getgenv().DitBF = {
