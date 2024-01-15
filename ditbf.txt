@@ -9,7 +9,7 @@ getgenv().DitBF = {
     ["Performance"] = {
         ["Hide Map"] = true,
         ["Black Screen"] = true,
-        ["Lock FPS"] = 60,
+        ["Lock FPS"] = 30,
         ["Ultra Optimize"] = false,
     },
     ["Fast Attack Duration/Cooldown"] = {5, 2},
@@ -20,7 +20,7 @@ getgenv().DitBF = {
     ["Extra time Farm until unlock skills"] = true,
     ["Hop Server"] = {
         ["Type"] = {
-            ["[Main] Server Hop"] = false,
+            ["[Main] Server Hop"] = true,
             ["[Farm] Server Hop if Player nearby"] = false,
             ["[Sea 3 Quest] Server Hop for 1M+ Blox Fruit"] = true,
         },
